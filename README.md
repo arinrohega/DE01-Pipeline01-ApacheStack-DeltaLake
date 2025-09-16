@@ -28,13 +28,6 @@ An applicants/prospects dataset that shows the most relevant metrics from their 
 ## Architecture
 ![xxxxxxxx drawio](https://github.com/user-attachments/assets/19ef1dfd-c282-4aaf-a2f8-edfa7023d4f1)
 
-## Datasets Used
-All tables were made and loaded locally to MySQL database. While all data is fictitious, each element was designed meticulously to replicate a real enterprise model, mirroring the afiliation schema of a company I've previously worked with, mantaining logical relationships and consistency across tables.
-
-![dataset1](https://github.com/user-attachments/assets/309bd941-b8a0-40a0-ac6c-243f393cd3e7)
-
-Theres a glossary at the end, providing English translations of the table and column names if needed.
-
 ## Data Model
 ### Complete OLTP Database Model
 ![datamodel1](https://github.com/user-attachments/assets/cc53a22c-a9ae-44d2-9b59-fb38ac1bdeeb)
@@ -711,6 +704,12 @@ And the alert was sended to the email specified on the docker-compose
 ### Learnings
 
 ![funcionesusadas](https://github.com/user-attachments/assets/ff5af71f-5a19-4f68-8aad-a2940089bc55)
+
+## Datasets Used
+All tables were made and loaded locally to MySQL database. While all data is fictitious, each element was designed meticulously to replicate a real enterprise model, mirroring the afiliation schema of a company I've previously worked with, mantaining logical relationships and consistency across tables.
+
+![dataset1](https://github.com/user-attachments/assets/309bd941-b8a0-40a0-ac6c-243f393cd3e7)
+
 
 ### Spanish/English Glossary
 

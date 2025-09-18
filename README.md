@@ -1,7 +1,7 @@
 # Data Engineering Pipeline - OnPremise
 ## Introduction
 
-This project simulates a production-grade data engineering pipeline that automates the extraction of operational data from an OLTP database, to deliver cleaned datasets in a Delta Lake environment. The pipeline is built using modern Big Data applications, containerized to replicate enterprise-level data workflows without OS compatibility issues.
+This project it´s a data engineering pipeline that automates the extraction of operational data from an OLTP database, to deliver cleaned datasets in a Delta Lake environment. The pipeline is built using modern Big Data applications, containerized to replicate enterprise-level data workflows without OS compatibility issues.
 
 (Designed by Alejandro Rodríguez for educational and skill demonstration purposes)
 
@@ -706,7 +706,7 @@ And the alert was sended to the email specified on the docker-compose
 ![funcionesusadas](https://github.com/user-attachments/assets/ff5af71f-5a19-4f68-8aad-a2940089bc55)
 
 ## Datasets Used
-All tables were made and loaded locally to MySQL database. While all data is fictitious, each element was designed meticulously to replicate a real enterprise model, mirroring the afiliation schema of a company I've previously worked with, mantaining logical relationships and consistency across tables.
+All tables values were made and loaded locally to MySQL database. While all data is fictitious, each element was designed meticulously to mirror the afiliation schema of the company I am currently working with, mantaining logical relationships and consistency across tables.
 
 ![dataset1](https://github.com/user-attachments/assets/309bd941-b8a0-40a0-ac6c-243f393cd3e7)
 
